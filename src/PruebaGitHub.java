@@ -11,6 +11,7 @@ public class PruebaGitHub {
 		else
 
 			System.out.println("padre ocupado");
+		    System.out.println("padre ocupado");
 	}
 
 }
